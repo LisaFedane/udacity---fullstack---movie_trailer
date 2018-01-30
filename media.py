@@ -1,3 +1,5 @@
+# code is written while taking Udacity course and copying the lesson
+
 import webbrowser
 
 class Movie():
