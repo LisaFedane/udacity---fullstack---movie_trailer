@@ -8,7 +8,7 @@ This program is to display my favorite movies and show:
 3. Show the movie trailer
 
 -This is written in Python 2.7.11
--The program will launch a webbrowser page and should exhibits movie poster tiles with the title and summary beneath the art.  
+-The program will launch a webbrowser page and exhibits movie poster tiles with the title and summary beneath the art.  
 -You should be able to click on the art to launch and view the youtube trailer
 
 ## Getting Started
