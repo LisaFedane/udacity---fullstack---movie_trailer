@@ -1,3 +1,5 @@
+# this code was written copying Udacity course content and adapted to make this project unique to me
+
 import media
 import fresh_tomatoes
 
