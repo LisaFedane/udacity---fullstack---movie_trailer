@@ -1,7 +1,8 @@
 import media
 import fresh_tomatoes
 
-
+# links to media file 
+# inputs specifics of each of the movies in this order: Title, Summary, Art, Youtube trailer
 
 howls = media.Movie("Howls Moving Castle", "A lonely girl's life is changed when she " 
                     "befriends a wizard living in a moving castle and she is cursed by an" 
@@ -47,6 +48,6 @@ water = media.Movie ("Like Water for Chocolate", "The story of a girl born young
                      "https://www.youtube.com/watch?v=vb2QJvmETL4")
 
 
-movies = [howls, hero, arrival, amelie, usual, water,  butch]
+movies = [howls, hero, arrival, amelie, usual, water,  butch] #links to media file & designates display order of movies 
 
-fresh_tomatoes.open_movies_page(movies)
+fresh_tomatoes.open_movies_page(movies) #links to fresh_tomoato file that provides html/css format of the content
