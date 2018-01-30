@@ -27,8 +27,8 @@ The first two files are resources for the entertainment_center.py file draw on
 Open the entertainment_center.py file in idle running 
 2.7.11 and run the code
 
-# Full Disclousure
+### Full Disclousure
 
-This code is written while following Udacity's course and is their code rewritten by me to individualize my project
+This code is written while following Udacity's course and is their code rewritten by me to individualize my project.  
 The fresh_tomoatoes code is downloaded from Udacity with some minor changes made by me
 
