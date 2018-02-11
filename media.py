@@ -12,9 +12,8 @@ class Movie():
     """
     def __init__(self, movie_title, movie_storyline, poster_image,
                  trailer_youtube):
-        """Constructor to store data about the movie that user inputs."""
-
         """
+        Constructor to store data about the movie that user inputs.
         Handles for user to use to operate the movie data.
         Ex. movie_name.title
         """
